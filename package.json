@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/I-Gave/contract-monitor#readme",
   "dependencies": {
+    "logger": "git+https://github.com/I-Gave/logger.git",
     "web3": "^0.20.0"
   },
   "devDependencies": {

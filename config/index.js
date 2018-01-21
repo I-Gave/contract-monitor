@@ -8,6 +8,7 @@ const config = {
       rpc: "http://45.76.250.111:9546",
       fromBlock: 0,
       toBlock: 'latest',
+      handler: "IGV",
       abi: [
         {
           "constant": true,

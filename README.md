@@ -19,3 +19,4 @@ Add new contracts to index.js in the config
 
 Add new event handler clients for new contracts by creating a new handler in `lib/EventHandler/clients`
 
+If you are only doing monitoring and not interacting with your contract you can trim the abi down to just the event objects.
